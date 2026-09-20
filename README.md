@@ -1,4 +1,3 @@
-# SPENet
 # SPENet: A Spectral Estimation-Enhanced Framework for Low-Light Crack Segmentation in Architectural Heritage Surfaces
 
 <p align="center">
